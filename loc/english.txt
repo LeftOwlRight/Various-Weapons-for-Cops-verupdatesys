@@ -1,0 +1,10 @@
+{
+    "menu_various_weapon_for_cops" : "Various Weapons for Cops",
+	"menu_various_weapon_for_cops_desc" : "Give enemies different weapons.\n(Enemies Weapons Randomized)",
+	"menu_various_weapon_for_cops_Openmod" : "Enable",
+	"menu_various_weapon_for_cops_Openmod_desc" : "Enable or disable the mod.\nIt takes effect immediately.",
+	"menu_various_weapon_for_cops_No_Zeal_Shotgunner" : "No Zeal Shotgunners",
+	"menu_various_weapon_for_cops_No_Zeal_Shotgunner_desc" : "Non-special units like zeal_swat won't have shoguns.\nBut fbi_swat and city_swat will still have shotguns.",
+	"menu_various_weapon_for_cops_Dangerous_mode" : "Dangerous mode",
+	"menu_various_weapon_for_cops_Dangerous_mode_desc" : "Enemies will contrapuntally use some weapons more. \nDepend on what perk deck you are using."
+}
