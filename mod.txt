@@ -2,7 +2,7 @@
 	"name" : "Various Weapons for Cops",
 	"description" : "More Challenge!",
 	"author" : "LR_Daring",
-	"version" : 2.6,
+	"version" : 2.7,
 	"priority": -36,
 	
 	"hooks" : [
