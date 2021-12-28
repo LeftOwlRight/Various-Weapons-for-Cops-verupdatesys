@@ -4,6 +4,7 @@ VariousWeaponForCops = VariousWeaponForCops or {
 	settings = {
 		Dangerous_mode = false,
 		No_Zeal_Shotgunner = false,
+		Reduce_Iframe = false,
 		Openmod = true
 	}
   }

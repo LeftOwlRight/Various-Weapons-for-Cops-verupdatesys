@@ -3,6 +3,8 @@
 	"menu_various_weapon_for_cops_desc" : "给敌军随机使用各种各样的武器。",
 	"menu_various_weapon_for_cops_Openmod" : "启用模组",
 	"menu_various_weapon_for_cops_Openmod_desc" : "勾选启用，取消勾选关闭。\n该选项即刻生效，不需要重新开始劫案。",
+	"menu_various_weapon_for_cops_Reduce_Iframe" : "伤害修正",
+	"menu_various_weapon_for_cops_Reduce_Iframe_desc" : "启用Hoppip的MOD：Reduced I-Frame Damage的效果。\n详情请自行去ModWorkShop上看它的描述。",
 	"menu_various_weapon_for_cops_No_Zeal_Shotgunner" : "无喷哥模式",
 	"menu_various_weapon_for_cops_No_Zeal_Shotgunner_desc" : "只有黄皮和花皮水军会使用喷子，\n刷出的Zeal和其它水军不会使用喷子。",
 	"menu_various_weapon_for_cops_Dangerous_mode" : "危险模式",
