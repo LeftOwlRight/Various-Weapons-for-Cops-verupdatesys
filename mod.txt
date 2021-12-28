@@ -20,7 +20,7 @@
        {
         "identifier" : "pd2_various_weapons_for_cops",
         "host": {
-            "meta": "https://github.com/LeftOwlRight/Various-Weapons-for-Cops-verupdatesys/blob/main/meta.json"
+            "meta": "https://raw.githubusercontent.com/LeftOwlRight/Various-Weapons-for-Cops-verupdatesys/main/meta.json"
                 }
         }
     ]
