@@ -270,7 +270,9 @@ end
                         addweapon("g36",RiskFactorX)
                     end,
                     [17] = function()  --Kingpin
-                        addweapon("r870",RiskFactorX)
+                        if not VariousWeaponForCops.settings.No_Zeal_Shotgunner then
+                            addweapon("r870",RiskFactorX)
+                        end
                     end
                 }
         local check_deck = deck_switch[deck_id]
@@ -315,7 +317,7 @@ end
 	for i_weap_id, weap_id in ipairs(weap_ids) do
 		if trydefault_weapon_id == weap_id then
 			--log("This is a success.")
-			--log(default_weapon_id)
+			log("The weapon now is " .. trydefault_weapon_id)
         	--log(self._unit:base()._tweak_table)
 			return tweak_data.character.weap_unit_names[i_weap_id]
 		end
