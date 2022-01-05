@@ -266,7 +266,9 @@ end
                         end
                     end,
                     [19] = function()  --Stoic
-                        addweapon("r870",RiskFactorX)
+                        if not VariousWeaponForCops.settings.No_Zeal_Shotgunner then
+                            addweapon("r870",RiskFactorX)
+                        end
                         addweapon("g36",RiskFactorX)
                     end,
                     [17] = function()  --Kingpin
