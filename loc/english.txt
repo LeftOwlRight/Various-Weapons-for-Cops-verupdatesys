@@ -11,6 +11,8 @@
 	"menu_various_weapon_for_cops_Dont_Be_Annoying_desc" : "No loud sniper swat.\nSwat units carrying sniper will only carry heavy zeal sniper.",
 	"menu_various_weapon_for_cops_Reduce_Iframe" : "Reduced I-Frame Damage",
 	"menu_various_weapon_for_cops_Reduce_Iframe_desc" : "Enable the effect of Hoppip's MOD：Reduced I-Frame Damage.\nFor more details you can search it on ModWorkShop.",
+	"menu_various_weapon_for_cops_Record_Weapons" : "Log the Weapons",
+	"menu_various_weapon_for_cops_Record_Weapons_desc" : "Log the weapons used by enemies in BLT logs.\nThis can help troubleshoot issue when crashing.",
 	"menu_various_weapon_for_cops_No_Zeal_Shotgunner" : "No Zeal Shotgunners",
 	"menu_various_weapon_for_cops_No_Zeal_Shotgunner_desc" : "Non-special units like zeal_swat won't have shoguns.\nBut fbi_swat and city_swat will still have shotguns.",
 	"menu_various_weapon_for_cops_Dangerous_mode" : "Dangerous mode",

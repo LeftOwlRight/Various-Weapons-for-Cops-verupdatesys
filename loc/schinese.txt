@@ -11,6 +11,8 @@
 	"menu_various_weapon_for_cops_Dont_Be_Annoying_desc" : "水军不会使用声音很大的狙，\n但狂热狙击手的狙依然有概率生成，因为它不吵。",
 	"menu_various_weapon_for_cops_Reduce_Iframe" : "伤害修正",
 	"menu_various_weapon_for_cops_Reduce_Iframe_desc" : "启用Hoppip的MOD：Reduced I-Frame Damage的效果。\n详情请自行去ModWorkShop上看它的描述。",
+	"menu_various_weapon_for_cops_Record_Weapons" : "记录随机的武器",
+	"menu_various_weapon_for_cops_Record_Weapons_desc" : "在BLT的日志中记录当前随机到的武器，\n这有助于在闪退时确定问题所在。",
 	"menu_various_weapon_for_cops_No_Zeal_Shotgunner" : "无喷哥模式",
 	"menu_various_weapon_for_cops_No_Zeal_Shotgunner_desc" : "只有黄皮和花皮水军会使用喷子，\n刷出的Zeal和其它水军不会使用喷子。",
 	"menu_various_weapon_for_cops_Dangerous_mode" : "危险模式",
