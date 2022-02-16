@@ -2,7 +2,7 @@
 	"name" : "Various Weapons for Cops",
 	"description" : "More Challenge!",
 	"author" : "LR_Daring",
-	"version" : 3.3,
+	"version" : 3.4,
 	"priority": -36,
 	
 	"hooks" : [
@@ -20,7 +20,7 @@
        {
         "identifier" : "pd2_various_weapons_for_cops",
         "host": {
-            "meta": "https://raw.githubusercontent.com/LeftOwlRight/Various-Weapons-for-Cops-verupdatesys/main/meta.json"
+            "meta": "https://gitlab.com/LeftOwlRight/Various-Weapons-for-Cops-verupdatesys/-/raw/main/meta.json"
                 }
         }
     ]

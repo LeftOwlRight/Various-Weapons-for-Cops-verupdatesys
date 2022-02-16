@@ -1,8 +1,8 @@
 [
     {
         "ident" : "pd2_various_weapons_for_cops",
-        "version" : 3.3,
+        "version" : 3.4,
         "patchnotes_url" : "https://www.modworkshop.net/mod/34429#changelog",
-        "download_url" : "https://github.com/LeftOwlRight/Various-Weapons-for-Cops-verupdatesys/archive/refs/heads/main.zip"
+        "download_url" : "https://gitlab.com/LeftOwlRight/Various-Weapons-for-Cops-verupdatesys/-/archive/main/Various-Weapons-for-Cops-verupdatesys-main.zip"
     }
 ]
